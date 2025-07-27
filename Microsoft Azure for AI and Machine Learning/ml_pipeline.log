@@ -1,0 +1,33 @@
+INFO:root:Logging setup complete.
+INFO:root:Logging setup complete.
+INFO:root:Loading dataset...
+INFO:root:Loading dataset...
+INFO:root:Loading dataset...
+INFO:root:Loading dataset...
+INFO:root:Loading dataset...
+INFO:root:Loading dataset...
+INFO:root:Dataset loaded successfully.
+INFO:root:Starting data preprocessing...
+INFO:root:Missing values filled with 0.
+INFO:root:Data preprocessing completed.
+INFO:root:Loading dataset...
+INFO:root:Loading dataset...
+INFO:root:Dataset loaded successfully.
+INFO:root:Starting data preprocessing...
+INFO:root:Missing values filled with 0.
+INFO:root:Data preprocessing completed.
+ERROR:root:Example error logged
+INFO:azureml.core.workspace:Found the config file in: g:\Downloads\Organised\Video\Online Courses\Microsoft AI ML\Microsoft Azure for AI and Machine Learning\config.json
+WARNING:azureml._vendor.azure_cli_core.auth.identity:The default web browser has been opened at https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize. Please continue the login in the web browser. If no web browser is available or if the web browser fails to open, use device code flow with `az login --use-device-code`.
+INFO:msal.oauth2cli.authcode:Open a browser on this device to visit: https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=04b07795-8ddb-461a-bbee-02f9e1bf7b46&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A59801&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2F.default+offline_access+openid+profile&state=flemLxACNwFJBRMW&code_challenge=1WrLqFjW-pBcUvMM0velojA5ZT7gxUwOeB3f2yiWFho&code_challenge_method=S256&nonce=3eb804f70cb543c1ab0b1dc4138100f47bf2421870a6b9560ebdab64f13cc8ce&client_info=1&prompt=select_account
+INFO:azureml._vendor.azure_cli_core._profile:Finding subscriptions under tenant 3a17e457-f6d4-4ed9-8f96-f440d79cfd8d 'Répertoire par défaut'
+INFO:azureml.core.workspace:Found the config file in: g:\Downloads\Organised\Video\Online Courses\Microsoft AI ML\Microsoft Azure for AI and Machine Learning\config.json
+ERROR:azureml._project._commands:get_workspace error using subscription_id=e9a21e6a-d96f-4e1c-9be5-8606db55de38, resource_group_name=<resource-group>, workspace_name=<workspace-name>
+INFO:azureml.core.workspace:Found the config file in: g:\Downloads\Organised\Video\Online Courses\Microsoft AI ML\Microsoft Azure for AI and Machine Learning\config.json
+ERROR:azureml._project._commands:get_workspace error using subscription_id=e9a21e6a-d96f-4e1c-9be5-8606db55de38, resource_group_name=<resource-group>, workspace_name=<workspace-name>
+INFO:azureml.core.workspace:Found the config file in: g:\Downloads\Organised\Video\Online Courses\Microsoft AI ML\Microsoft Azure for AI and Machine Learning\config.json
+ERROR:azureml._project._commands:get_workspace error using subscription_id=e9a21e6a-d96f-4e1c-9be5-8606db55de38, resource_group_name=<resource-group>, workspace_name=<workspace-name>
+ERROR:azureml._model_management._util:entry_script model.py doesn't exist. entry_script should be path relative to current working directory
+
+INFO:azureml.core.workspace:Found the config file in: g:\Downloads\Organised\Video\Online Courses\Microsoft AI ML\Microsoft Azure for AI and Machine Learning\config.json
+ERROR:azureml._project._commands:get_workspace error using subscription_id=e9a21e6a-d96f-4e1c-9be5-8606db55de38, resource_group_name=<resource-group>, workspace_name=<workspace-name>
